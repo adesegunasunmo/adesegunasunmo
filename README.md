@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm @adesegunasunmo</h1>
-<h3 align="center">👀 I’m interested in anything cloud</h3>
+![github-header-image (1)](https://github.com/user-attachments/assets/5d8f1e04-5d0d-4fa4-af8a-6d37e96b6b9b)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adesegunasunmo&label=Profile%20views&color=0e75b6&style=flat" alt="adesegunasunmo" /> </p>
+<h1 align="center">Hi 👋, I'm Adesegun Asunmo</h1>
+<h3 align="center">👀 I’m interested in anything cloud computing</h3>
+
+<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x4bmYzODQzb2Myc3gzdWM1OGNjdDUza2lsN3owczVyOGlveXp2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adesegunasunmo" alt="adesegunasunmo" /></a> </p>
 
@@ -9,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adesegunasunmo](https://github.com/adesegunasunmo)
 
-- 📝 I sometimes write articles on (dev.to and Medium)
+- 📝 I sometimes write articles on [dev.to and Medium](dev.to and Medium)
 
 - 📫 How to reach me **adesegunabayomi@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I think I'm friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adesegunasunmo&show_icons=true&locale=en" alt="adesegunasunmo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesegunasunmo&" alt="adesegunasunmo" /></p>
+
