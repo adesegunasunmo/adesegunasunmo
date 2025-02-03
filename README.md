@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adesegunasunmo](https://github.com/adesegunasunmo)
 
-- 📝 I sometimes write articles on [dev.to and Medium](dev.to and Medium)
+- 📝 I sometimes write articles on (dev.to and Medium)
 
 - 📫 How to reach me **adesegunabayomi@gmail.com**
 
